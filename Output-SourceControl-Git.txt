@@ -1,0 +1,2 @@
+﻿Opening repositories:
+C:\Users\Wozn\Documents\C++ class\nursery_dynamic.cpp

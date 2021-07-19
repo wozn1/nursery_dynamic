@@ -1,0 +1,3 @@
+﻿  nursery_dynamic.cpp.cpp
+c:\users\wozn\documents\c++ class\nursery_dynamic.cpp\nursery_dynamic.cpp\nursery_dynamic.cpp.cpp(59): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  nursery_dynamic.cpp.vcxproj -> C:\Users\Wozn\Documents\C++ class\nursery_dynamic.cpp\x64\Debug\nursery_dynamic.cpp.exe
